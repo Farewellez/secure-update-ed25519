@@ -1,0 +1,10 @@
+file_size_mb,operation,trials,median_ms,min_ms,max_ms,environment
+1,sha256_stream,12,0.65299,0.60256,0.76231,"Linux x86_64, Python 3.13.5, cryptography 46.0.4"
+1,ed25519_sign_manifest,12,0.03532,0.03465,0.06923,"Linux x86_64, Python 3.13.5, cryptography 46.0.4"
+1,ed25519_verify_manifest,12,0.11068,0.1055,0.38253,"Linux x86_64, Python 3.13.5, cryptography 46.0.4"
+10,sha256_stream,12,6.4904,6.05373,7.15681,"Linux x86_64, Python 3.13.5, cryptography 46.0.4"
+10,ed25519_sign_manifest,12,0.03494,0.03438,0.12906,"Linux x86_64, Python 3.13.5, cryptography 46.0.4"
+10,ed25519_verify_manifest,12,0.10772,0.10584,0.41323,"Linux x86_64, Python 3.13.5, cryptography 46.0.4"
+50,sha256_stream,12,32.68307,31.19417,33.61024,"Linux x86_64, Python 3.13.5, cryptography 46.0.4"
+50,ed25519_sign_manifest,12,0.03567,0.0346,0.19309,"Linux x86_64, Python 3.13.5, cryptography 46.0.4"
+50,ed25519_verify_manifest,12,0.11084,0.10563,0.46628,"Linux x86_64, Python 3.13.5, cryptography 46.0.4"

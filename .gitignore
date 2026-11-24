@@ -1,0 +1,12 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+work/
+*.pem
+*.key
+docs/Proposal_TA_Kriptografi_Modern_Ed25519.docx
+docs/Proposal_TA_Kriptografi_Modern_Ed25519.pdf
+docs/Proposal_Tugas_Akhir.md
+Proposal_TA_Kriptografi_Modern_Ed25519
+Proposal_Tugas_Akhir

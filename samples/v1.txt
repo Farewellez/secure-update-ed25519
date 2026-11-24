@@ -1,0 +1,2 @@
+CielApp release 1
+This is a harmless demo update artifact, not an executable.

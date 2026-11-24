@@ -1,0 +1,5 @@
+LIVE HTTP on 127.0.0.1:8765 (local only)
+GET /health: HTTP 200 {'status': 'ok', 'releases': 2}
+GET /updates/latest: HTTP 200 version=2
+First check exit=0: [ACCEPT] Update verified and staged: work/live-staging/cielapp-v2.bin
+Second check exit=2: [REJECT] rollback_or_replay: max=2, received=2
